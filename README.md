@@ -7,7 +7,7 @@ Khushi_Ahuja_app.R
 
 The app performs
   1.Summary of the data
-  2.Count Matrx Data Analysis
+  2.Count Matrix Data Analysis
   3.Differential expression analysis
   4.Individual gene expression 
 
